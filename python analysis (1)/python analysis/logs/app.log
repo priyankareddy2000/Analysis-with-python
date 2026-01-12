@@ -1,0 +1,21 @@
+2026-01-05 15:45:57,044 | INFO | Working directory at runtime: C:\Users\paekula\OneDrive - Capgemini\Desktop\python analysis
+2026-01-05 15:45:57,044 | INFO | Project root resolved as: C:\Users\paekula\OneDrive - Capgemini\Desktop\python analysis
+2026-01-05 15:45:57,044 | WARNING | C:\Users\paekula\OneDrive - Capgemini\Desktop\python analysis\data\input.csv not found. Creating synthetic sample data.
+2026-01-05 15:45:58,488 | INFO | Saved chart: C:\Users\paekula\OneDrive - Capgemini\Desktop\python analysis\reports\charts\time_series.png
+2026-01-05 15:45:58,895 | INFO | Saved chart: C:\Users\paekula\OneDrive - Capgemini\Desktop\python analysis\reports\charts\product_breakdown.png
+2026-01-05 15:45:59,316 | INFO | Saved chart: C:\Users\paekula\OneDrive - Capgemini\Desktop\python analysis\reports\charts\units_distribution.png
+2026-01-05 15:46:04,069 | INFO | Working directory at runtime: C:\Users\paekula\OneDrive - Capgemini\Desktop\python analysis
+2026-01-05 15:46:04,069 | INFO | Project root resolved as: C:\Users\paekula\OneDrive - Capgemini\Desktop\python analysis
+2026-01-05 15:46:04,072 | WARNING | C:\Users\paekula\OneDrive - Capgemini\Desktop\python analysis\data\input.csv not found. Creating synthetic sample data.
+2026-01-05 15:46:05,144 | INFO | Saved chart: C:\Users\paekula\OneDrive - Capgemini\Desktop\python analysis\reports\charts\time_series.png
+2026-01-05 15:46:05,588 | INFO | Saved chart: C:\Users\paekula\OneDrive - Capgemini\Desktop\python analysis\reports\charts\product_breakdown.png
+2026-01-05 15:46:06,026 | INFO | Saved chart: C:\Users\paekula\OneDrive - Capgemini\Desktop\python analysis\reports\charts\units_distribution.png
+2026-01-05 16:02:00,982 | INFO | pipeline | cwd=C:\Users\paekula\OneDrive - Capgemini\Desktop\python analysis | project_root=C:\Users\paekula\OneDrive - Capgemini\Desktop\python analysis
+2026-01-05 16:04:00,026 | INFO | pipeline | cwd=C:\Users\paekula\OneDrive - Capgemini\Desktop\python analysis | project_root=C:\Users\paekula\OneDrive - Capgemini\Desktop\python analysis
+2026-01-05 16:04:02,915 | INFO | pipeline | All done. Outputs in reports/ and logs/app.log
+2026-01-05 16:09:17,526 | INFO | pipeline | cwd=C:\Users\paekula\OneDrive - Capgemini\Desktop\python analysis | project_root=C:\Users\paekula\OneDrive - Capgemini\Desktop\python analysis
+2026-01-05 16:09:19,460 | INFO | pipeline | All done. Outputs in reports/ and logs/app.log
+2026-01-05 16:23:26,747 | INFO | pipeline | cwd=C:\Users\paekula\OneDrive - Capgemini\Desktop\python analysis | project_root=C:\Users\paekula\OneDrive - Capgemini\Desktop\python analysis
+2026-01-05 16:23:28,459 | INFO | pipeline | All done. Outputs in reports/ and logs/app.log
+2026-01-05 16:24:30,348 | INFO | pipeline | cwd=C:\Users\paekula\OneDrive - Capgemini\Desktop\python analysis | project_root=C:\Users\paekula\OneDrive - Capgemini\Desktop\python analysis
+2026-01-05 16:24:32,630 | INFO | pipeline | All done. Outputs in reports/ and logs/app.log

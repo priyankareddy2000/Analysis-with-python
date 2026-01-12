@@ -1,0 +1,16 @@
+
+data:
+  path: data/sales.csv
+  date_column: date
+  currency: INR
+analysis:
+  group_by: [region, product]
+  metrics:
+    - units
+    - revenue
+reporting:
+  title: Weekly Sales Analysis
+  charts:
+    - time_series
+    - product_breakdown
+    - units_distribution

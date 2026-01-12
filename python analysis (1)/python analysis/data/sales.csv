@@ -1,0 +1,12 @@
+
+date,region,product,units,price
+2025-12-25,Pune,Alpha,10,1200
+2025-12-26,Pune,Alpha,12,1200
+2025-12-27,Pune,Beta,8,900
+2025-12-28,Pune,Beta,11,900
+2025-12-29,Pune,Gamma,5,700
+2025-12-30,Pune,Alpha,14,1200
+2025-12-31,Pune,Gamma,7,700
+2026-01-01,Pune,Beta,9,900
+2026-01-02,Pune,Alpha,13,1200
+2026-01-03,Pune,Gamma,6,700
